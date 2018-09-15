@@ -15,8 +15,8 @@ Wanchain | 13 <sup id="a5">[5](#f5)</sup> | PoS | Yes - solidity | ?
 
 ## Footnotes
 
-<b id="f1">1</b> https://blog.nem.io/an-interview-with-nem-lead-core-developer-jaguar0625/ [↩](#a1)
-<b id="f2">2</b> https://www.stellar.org/how-it-works/stellar-basics/ [↩](#a2)
-<b id="f3">3</b> https://www.stellar.org/papers/stellar-consensus-protocol.pdf [↩](#a3)
-<b id="f4">4</b> https://www.stellar.org/developers/guides/walkthroughs/stellar-smart-contracts.html [↩](#a4)
-<b id="f5">5</b> https://www.reddit.com/r/wanchain/comments/8lzqk0/a_few_questions/ [↩](#a5)
+* <b id="f1">1</b> https://blog.nem.io/an-interview-with-nem-lead-core-developer-jaguar0625/ [↩](#a1)
+* <b id="f2">2</b> https://www.stellar.org/how-it-works/stellar-basics/ [↩](#a2)
+* <b id="f3">3</b> https://www.stellar.org/papers/stellar-consensus-protocol.pdf [↩](#a3)
+* <b id="f4">4</b> https://www.stellar.org/developers/guides/walkthroughs/stellar-smart-contracts.html [↩](#a4)
+* <b id="f5">5</b> https://www.reddit.com/r/wanchain/comments/8lzqk0/a_few_questions/ [↩](#a5)
