@@ -9,4 +9,8 @@ Name | TPS | Consensus | Programmable | ETH Compat
 Ethereum | 13 | PoW | Yes - solidity | 100%
 GoChain | 1300 | PoR | Yes - solidity | 100%
 EOS | 1500 | dPoS | Yes - WebAssembly | 0%
-NEM | 2 | PoI | No - offchain | 0%
+NEM | 2 <sup id="a1">[1](#f1)</sup> | PoI | No - offchain | 0%
+
+## Footnotes
+
+<b id="f1">1</b> https://blog.nem.io/an-interview-with-nem-lead-core-developer-jaguar0625/ [↩](#a1)
