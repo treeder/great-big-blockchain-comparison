@@ -14,6 +14,11 @@ Stellar | 1000 <sup id="a2">[2](#f2)</sup> | SCP <sup id="a3">[3](#f3)</sup> | n
 Wanchain | 13 <sup id="a5">[5](#f5)</sup> | PoS | Yes - solidity | ? | todo | todo
 NEO | 33 <sup id="a6">[6](#f6)</sup> | dBFT | Yes - multiple languages | 0% | $0 | ~$9000 <sup id="a7">[7](#f7)</sup>
 
+## Not Live
+
+Here's a list of ones that keep coming up, but since they don't have a mainnet yet and therefore you can't actually use them, they won't be included in the list above. 
+
+* Credits
 
 ## Footnotes
 
