@@ -13,6 +13,8 @@ NEM | 2 <sup id="a1">[1](#f1)</sup> | PoI | No - offchain | 0% | todo | todo
 Stellar | 1000 <sup id="a2">[2](#f2)</sup> | SCP <sup id="a3">[3](#f3)</sup> | not really <sup id="a4">[4](#f4)</sup> | 0% | todo | todo
 Wanchain | 13 <sup id="a5">[5](#f5)</sup> | PoS | Yes - solidity | ? | todo | todo
 NEO | 33 <sup id="a6">[6](#f6)</sup> | dBFT | Yes - multiple languages | 0% | $0 | ~$9000 <sup id="a7">[7](#f7)</sup>
+TRON | ? <sup id="a10">[10](#f10)</sup> | dPoS | No <sup id="a11">[11](#f11)</sup> | 0% | $0.0000002 <sup id="a12">[12](#f12)</sup> | n/a
+
 
 ## Not Live
 
@@ -31,3 +33,9 @@ Here's a list of ones that keep coming up, but since they don't have a mainnet y
 * <b id="f7">7</b> http://docs.neo.org/en-us/sc/systemfees.html [↩](#a7)
 * <b id="f8">8</b> https://ethgasstation.info/ [↩](#8)
 * <b id="f9">9</b> Assuming no congestion, ie: less tx's than tps [↩](#9)
+* <b id="f10">10</b> Can't find any legitimate sources other than what they claim (and blockchain claims before reality kicks in are almost always very, very wrong) [↩](#10)
+* <b id="f11">11</b> https://github.com/tronprotocol/java-tron/issues/973 [↩](#11)
+* <b id="f12">12</b> https://www.reddit.com/r/Tronix/comments/8axgbk/does_tron_have_network_transaction_fee/ [↩](#12)
+
+
+
