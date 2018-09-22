@@ -15,8 +15,6 @@ Wanchain | 13 <sup id="a5">[5](#f5)</sup> | PoS | Yes - solidity | ? | todo | to
 NEO | 33 <sup id="a6">[6](#f6)</sup> | dBFT | Yes - multiple languages | 0% | $0 | ~$9000 <sup id="a7">[7](#f7)</sup>
 TRON | ? <sup id="a10">[10](#f10)</sup> | dPoS | No <sup id="a11">[11](#f11)</sup> | 0% | $0.0000002 <sup id="a12">[12](#f12)</sup> | n/a
 Tezos | 40 <sup id="a13">[13](#f13)</sup> | PoS | No <sup id="a14">[14](#f14)</sup> | 0% | ? | n/a
-Cardano | 7 <sup id="a15">[15](#f15)</sup> | PoS | No <sup id="a14">[14](#f14)</sup> | 0% | ? | n/a
-
 
 ## Not Live
 
@@ -41,9 +39,4 @@ Here's a list of ones that keep coming up, but since they don't have a mainnet y
 * <b id="f12">12</b> https://www.reddit.com/r/Tronix/comments/8axgbk/does_tron_have_network_transaction_fee/ [↩](#12)
 * <b id="f13">13</b> https://www.reddit.com/r/tezos/comments/8h68wy/what_is_the_tps_and_latency_time_of_tezos/ [↩](#13)
 * <b id="f14">14</b> https://tezos.gitlab.io/master/introduction/howtouse.html [↩](#14)
-
-
-
-a) https://www.reddit.com/r/cardano/comments/7jscka/two_questions_1_how_many_transactions_per_second/
-b) they don't know: https://www.youtube.com/watch?v=9IOaaU8gC7w
 
