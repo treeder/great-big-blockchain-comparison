@@ -6,6 +6,7 @@ Contributions welcome!  Either create a pull request or an issue in this repo.
 
 Name | TPS | Consensus | Programmable | ETH Compat | Tx Fee <sup id="a9">[9](#f9)</sup> | Deploy Fee
 ---- | --- | --------- | ------------ | ---------- | ------ | ----------
+Bitcoin | 6 | PoW | No | No | $0.07-$3.50 | n/a
 Ethereum | 13 | PoW | Yes - solidity | 100% | ~$.10 <sup id="a8">[8](#f8)</sup> | todo
 GoChain | 1300 | PoR | Yes - solidity | 100% | ~$0.000002 | todo
 EOS | 1500 | dPoS | Yes - WebAssembly | 0% | todo | todo
